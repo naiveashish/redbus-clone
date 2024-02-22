@@ -13,7 +13,7 @@ This project is a basic clone of the popular online bus ticket booking platform,
 - Git: Version control system for managing project iterations and collaboration.
 
 ## Screenshots:
-![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 1](screenshot-redbus.gif)
 
 ## Usage:
 1. Clone the repository: `git clone https://github.com/yourusername/red-bus-clone.git`
